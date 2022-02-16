@@ -1,0 +1,10 @@
+{
+  "cadastro": [
+    {
+      "title": "Teste",
+      "description": "Isso é apenas um teste",
+      "content": "Testando o funcionamento do crud",
+      "id": 1
+    }
+  ]
+}

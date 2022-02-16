@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');/*logo*/
+
+.content{
+    display:flex;     
+    align-items: flex-end;
+    justify-content: space-between;
+    max-width: 1100px;
+    margin: 0 auto;
+    height: auto;
+    
+}
+.logo{
+    font-family:  'Akaya Telivigala', cursive;
+    font-size: 34px;
+    color: crimson;
+}
+.logo:hover{
+    color:aliceblue;
+    text-shadow: 3px 3px 12px rgb(237, 232, 232);
+}
+.button{
+    font-family: Heebo;
+    background-color: blueviolet;
+    align-content:space-between ;
+    flex-direction: row;
+    border: none;
+    color: aliceblue;
+    padding: 5px;
+    border-radius: 3px;
+}
+ .button:hover{
+     background-color: rgb(159, 86, 228);
+    box-shadow:2px 2px 23px blueviolet;
+    cursor: pointer;
+ }
